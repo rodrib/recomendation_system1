@@ -81,6 +81,9 @@ https://colab.research.google.com/drive/1ocNMGdpKzw3B_17zp0-h_fp8Qhp0qdSN?usp=dr
 RS_Ml
 https://colab.research.google.com/drive/17hwh5wFHxIBw6bY88UrWrmFuadZXv0Dl?usp=drive_link
 
+## Para el testeo se debe usar el archivo df_clean.csv
+
+https://drive.google.com/file/d/1LfAtDT5jqBhZXjrOdP9uL3__h4Qz3MZC/view?usp=sharing
 
 
 ## Contribución
