@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1-gruxBXBr8AUaDrX72f0UEDtJADOyuvV?usp=sha
 
 1. Clona este repositorio en tu máquina local.
 
-git clone <URL del repositorio>
+git clone https://github.com/rodrib/recomendation_system1.git
 
 2. Crea un ambiente virtual en Python.
 
